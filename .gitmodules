@@ -1,0 +1,3 @@
+[submodule "regex-feature-usage"]
+	path = regex-feature-usage
+	url = git@github.com:river-martin/regex-feature-usage.git
